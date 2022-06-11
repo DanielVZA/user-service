@@ -1,0 +1,17 @@
+{
+    "name": "daniel/user-service",
+    "require": {
+        "laravel/framework": "8.40"
+    },
+    "autoload": {
+        "psr-4": {
+            "Daniel\\UserService\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "DanielVZA",
+            "email": "danielvasquez@protonmail.com"
+        }
+    ]
+}
